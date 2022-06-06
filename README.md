@@ -1,2 +1,2 @@
 # SQL-Work
-Creating databases and tables, selecting and extracting relevant data
+Creating databases, queries,subqueries, selecting and extracting relevant data
